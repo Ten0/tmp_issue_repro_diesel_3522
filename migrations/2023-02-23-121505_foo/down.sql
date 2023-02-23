@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS resource;
+
+DROP TYPE IF EXISTS some_enum;
+
+DROP TYPE IF EXISTS some_enum_2;
